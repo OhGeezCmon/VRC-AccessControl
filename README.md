@@ -21,6 +21,7 @@ The following assets were used under the Creative Commons license:
 
 - SimpleIcon http://www.simpleicon.com/, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons
 - Eurostile Font (https://freefontsfamily.com/eurostile-font-free/)
+- Special mention to AudioLink for their Controller design.  I designed my controller the same way.
 
 ## Contacting Me
 Feel free to contact me on Discord (ohgeezcmon) or leave a suggestion or issue on the [Issues](https://github.com/OhGeezCmon/VRC-AccessControl/issues) page.
