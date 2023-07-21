@@ -20,7 +20,7 @@ Relies on TextMeshPro so if you get a popup click at least "Import TMP Essential
 The following assets were used under the Creative Commons license:
 
 - SimpleIcon http://www.simpleicon.com/, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons
-- Eurostyle Font (https://freefontsfamily.com/eurostile-font-free/)
+- Eurostile Font (https://freefontsfamily.com/eurostile-font-free/)
 
 ## Contacting Me
 Feel free to contact me on Discord (ohgeezcmon) or leave a suggestion or issue on the [Issues](https://github.com/OhGeezCmon/VRC-AccessControl/issues) page.
