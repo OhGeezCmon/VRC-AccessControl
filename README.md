@@ -11,6 +11,7 @@ Relies on TextMeshPro so if you get a popup click at least "Import TMP Essential
 ## How to Use
 - Any players that you would like to have permanent access add to the "Players With Starting Access" variable on "AccessController"
 - Set which objects are privileged to the "Controls" variable on "AccessController".  Ensure they are disabled before you upload the world
+- (Optional) Set which objects are to be disabled to the "Negative Controls" variable on "AccessController".  Ensure they are enabled before you upload the world
 - Once in the world follow the directions on the control pad.  Click on a player to enable Admin access.  Admins will see not only the "Control" objects but also the Controller itself
 - **NOTE** Admins can remove or add other Admins and Players, but not themselves.  This is to prevent accidentally removing your own access
 - Instance Owners (Red), Master (Green) and Permanent Players (Yellow) **cannot** be removed
