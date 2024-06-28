@@ -16,6 +16,8 @@ Relies on TextMeshPro so if you get a popup click at least "Import TMP Essential
 - **NOTE** Admins can remove or add other Admins and Players, but not themselves.  This is to prevent accidentally removing your own access
 - Instance Owners (Red), Master (Green) and Permanent Players (Yellow) **cannot** be removed
 
+![Example Usage](https://github.com/OhGeezCmon/VRC-AccessControl/blob/main/VRCAccessControlExample.gif)
+
 ## Attribution
 
 The following assets were used under the Creative Commons license:
